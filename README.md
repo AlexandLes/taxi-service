@@ -20,11 +20,12 @@ In this simple taxi service implemented CRUD operations.It uses Java Servlet and
 1. Clone the repository
 2. Open database environment and run SQL script located in following directory 
    src/main/resources/init_db.sql
-3. Build the project using Maven
+3. Add your DB username and password in ConnectionUtil
+4. Build the project using Maven
 ```
 mvn clean install
 ```
-4. Deploy WAR file to a servlet container such as Tomcat
+5. Deploy WAR file to a servlet container such as Tomcat
    (you can use version 9.0.73)
 
 ## Usage

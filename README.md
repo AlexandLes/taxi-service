@@ -1,6 +1,6 @@
 # ![Alt text](images/taxi_left.jpg) Taxi-Service  ![Alt text](images/taxi_right.jpg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,html,css&theme=light)](https://skills.thijs.gg)
 
 In this simple taxi service implemented CRUD operations.It uses Java Servlet and SQL.
 
